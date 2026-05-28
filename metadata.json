@@ -1,0 +1,6 @@
+{
+  "name": "Ihaw-Sarap Favorites",
+  "description": "A premium Filipino fast-food restaurant website offering grilled chicken inasal, halo-halo, and family meals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
